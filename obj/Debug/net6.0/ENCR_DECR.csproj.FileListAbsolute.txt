@@ -1,0 +1,15 @@
+C:\Users\danic\Desktop\ENCR_DECR\ENCR_DECR\bin\Debug\net6.0\ENCR_DECR.exe
+C:\Users\danic\Desktop\ENCR_DECR\ENCR_DECR\bin\Debug\net6.0\ENCR_DECR.deps.json
+C:\Users\danic\Desktop\ENCR_DECR\ENCR_DECR\bin\Debug\net6.0\ENCR_DECR.runtimeconfig.json
+C:\Users\danic\Desktop\ENCR_DECR\ENCR_DECR\bin\Debug\net6.0\ENCR_DECR.dll
+C:\Users\danic\Desktop\ENCR_DECR\ENCR_DECR\bin\Debug\net6.0\ENCR_DECR.pdb
+C:\Users\danic\Desktop\ENCR_DECR\ENCR_DECR\obj\Debug\net6.0\ENCR_DECR.csproj.AssemblyReference.cache
+C:\Users\danic\Desktop\ENCR_DECR\ENCR_DECR\obj\Debug\net6.0\ENCR_DECR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danic\Desktop\ENCR_DECR\ENCR_DECR\obj\Debug\net6.0\ENCR_DECR.AssemblyInfoInputs.cache
+C:\Users\danic\Desktop\ENCR_DECR\ENCR_DECR\obj\Debug\net6.0\ENCR_DECR.AssemblyInfo.cs
+C:\Users\danic\Desktop\ENCR_DECR\ENCR_DECR\obj\Debug\net6.0\ENCR_DECR.csproj.CoreCompileInputs.cache
+C:\Users\danic\Desktop\ENCR_DECR\ENCR_DECR\obj\Debug\net6.0\ENCR_DECR.dll
+C:\Users\danic\Desktop\ENCR_DECR\ENCR_DECR\obj\Debug\net6.0\refint\ENCR_DECR.dll
+C:\Users\danic\Desktop\ENCR_DECR\ENCR_DECR\obj\Debug\net6.0\ENCR_DECR.pdb
+C:\Users\danic\Desktop\ENCR_DECR\ENCR_DECR\obj\Debug\net6.0\ENCR_DECR.genruntimeconfig.cache
+C:\Users\danic\Desktop\ENCR_DECR\ENCR_DECR\obj\Debug\net6.0\ref\ENCR_DECR.dll
